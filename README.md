@@ -1,7 +1,7 @@
 <!-- DEMO PROJECTS -->
 ## Description
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://cdn-icons-png.flaticon.com/512/7439/7439893.png)
 
 Project Topics:
 * LLM Based Chatbot - Huggingface & VectorDB
