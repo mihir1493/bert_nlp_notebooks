@@ -1,10 +1,12 @@
 <!-- DEMO PROJECTS -->
 ## Description
 
-[![Product Name Screen Shot][product-screenshot]](https://cdn-icons-png.flaticon.com/512/7439/7439893.png)
-
 Project Topics:
 * LLM Based Chatbot - Huggingface & VectorDB
+* Azure Databricks Spark
+* Advance Forecasting using Deep Learning
+* Pricing Analytics - Elasticity, Demand Curve, Promo Optimization
+
 
 <!-- GETTING STARTED -->
 
@@ -17,8 +19,6 @@ Project Topics:
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
