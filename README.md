@@ -10,6 +10,10 @@ Project Topics:
 
 <!-- GETTING STARTED -->
 
+LLM Based Chatbot: 
+
+Udemy Course: `https://www.udemy.com/course/nlp-with-transformers/`
+
 
 <!-- ROADMAP -->
 ## Roadmap
